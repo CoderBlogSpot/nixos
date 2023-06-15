@@ -90,6 +90,7 @@
      polkit_gnome
      brightnessctl
      jetbrains-mono
+     dbus-next
    ];
 
  security.polkit.enable = true;
