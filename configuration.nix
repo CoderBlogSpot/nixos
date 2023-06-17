@@ -83,6 +83,7 @@
      obsidian
      flameshot
      nodejs
+     qtile
      python310Packages.pip
      xarchiver
      fontconfig
