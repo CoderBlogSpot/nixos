@@ -83,8 +83,7 @@
      obsidian
      flameshot
      nodejs
-     python3Full
-     python311Packages.pip
+     python310Packages.pip
      xarchiver
      fontconfig
      polkit_gnome
